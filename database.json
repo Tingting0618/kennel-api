@@ -13,13 +13,33 @@
       "locationId": 1,
       "customerId": 1,
       "id": 2
+    },
+    {
+      "name": "Bentley",
+      "breed": "Poodle",
+      "locationId": 1,
+      "customerId": 1,
+      "id": 3
+    },
+    {
+      "name": "Bob",
+      "breed": "Yorkie",
+      "locationId": 1,
+      "customerId": 1,
+      "id": 4
     }
   ],
   "customers": [
     {
       "id": 1,
       "name": "Hannah Hall",
-      "address": "7002 Chestnut Ct"
+      "address": "7002 Chestnut Ct",
+      "email": "HHall@gmail.com"
+    },
+    {
+      "email": "duan.tingting@yahoo.com",
+      "name": "Tingting Duan",
+      "id": 2
     }
   ],
   "employees": [
@@ -32,6 +52,21 @@
       "name": "Tingting Duan",
       "locationId": 1,
       "id": 2
+    },
+    {
+      "name": "Albert",
+      "locationId": 1,
+      "id": 3
+    },
+    {
+      "name": "Amy",
+      "locationId": 2,
+      "id": 4
+    },
+    {
+      "name": "Tingting",
+      "locationId": 3,
+      "id": 5
     }
   ],
   "locations": [
@@ -44,6 +79,11 @@
       "id": 2,
       "name": "Nashville South",
       "address": "209 Emory Drive"
+    },
+    {
+      "name": "Nashville Animal School",
+      "address": "301 Plus Park Blvd #300, Nashville, TN 37217",
+      "id": 3
     }
   ]
 }
