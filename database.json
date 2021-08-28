@@ -22,13 +22,6 @@
       "customerId": 1
     },
     {
-      "name": "Copper",
-      "breed": "Goldendoodle",
-      "locationId": 3,
-      "customerId": 2,
-      "id": 4
-    },
-    {
       "id": 5,
       "name": "New",
       "breed": "Yorkie",
