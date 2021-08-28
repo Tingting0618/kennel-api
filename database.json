@@ -4,29 +4,36 @@
       "id": 1,
       "name": "Doodles",
       "breed": "Poodle",
-      "customerId": 1,
-      "locationId": 2
+      "locationId": 2,
+      "customerId": 1
     },
     {
+      "id": 2,
       "name": "Albert",
       "breed": "Yorkie",
-      "locationId": 3,
-      "customerId": 1,
-      "id": 2
+      "locationId": 1,
+      "customerId": 1
     },
     {
-      "name": "Bentley",
+      "id": 3,
+      "name": "Bentlei",
       "breed": "Poodle",
       "locationId": 1,
-      "customerId": 1,
-      "id": 3
+      "customerId": 1
     },
     {
-      "name": "Bob",
+      "name": "Copper",
+      "breed": "Goldendoodle",
+      "locationId": 3,
+      "customerId": 2,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "New",
       "breed": "Yorkie",
       "locationId": 1,
-      "customerId": 1,
-      "id": 4
+      "customerId": 1
     }
   ],
   "customers": [
@@ -34,12 +41,7 @@
       "id": 1,
       "name": "Hannah Hall",
       "address": "7002 Chestnut Ct",
-      "email": "HHall@gmail.com"
-    },
-    {
-      "email": "duan.tingting@yahoo.com",
-      "name": "Tingting Duan",
-      "id": 2
+      "email": "test@gmail.com"
     }
   ],
   "employees": [
@@ -49,24 +51,14 @@
       "locationId": 2
     },
     {
-      "name": "Tingting",
-      "locationId": 3,
+      "name": "Tingting Duan",
+      "locationId": 1,
       "id": 2
     },
     {
-      "name": "Albert",
-      "locationId": 1,
-      "id": 3
-    },
-    {
-      "name": "Amy",
-      "locationId": 2,
-      "id": 4
-    },
-    {
-      "name": "Tingting",
+      "name": "Steve Brownlee",
       "locationId": 3,
-      "id": 5
+      "id": 3
     }
   ],
   "locations": [
@@ -81,8 +73,8 @@
       "address": "209 Emory Drive"
     },
     {
-      "name": "NSS Animal School",
-      "address": "100, puppy road",
+      "name": "Nashville Animal School",
+      "address": "301 Plus Park Blvd #300, Nashville, TN 37217",
       "id": 3
     }
   ]
